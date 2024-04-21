@@ -46,4 +46,4 @@ This commands includes
 ![image](https://github.com/VincyJovitha01/4.Execution_of_NetworkCommends/assets/147121113/b0f73c6f-ca3b-4515-baba-e99726c50ca8)
 
 ## Result
-Thus Execution of Network commands Performed 
+Thus Execution of Network commands are performed successfully.
